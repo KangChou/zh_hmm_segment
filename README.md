@@ -20,6 +20,7 @@ python predict.py
 # 其他参考
 
 深度学习分词方法：
+- https://blog.csdn.net/qq_44186838/article/details/118418096
 - https://blog.csdn.net/shawroad88/article/details/89525457?spm=1001.2014.3001.5506
 - https://github.com/SVAIGBA/WMSeg
 - https://github.com/SVAIGBA/WMSeg
