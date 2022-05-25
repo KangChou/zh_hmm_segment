@@ -5,6 +5,7 @@
 # 数据集
 
 数据来源: http://sighan.cs.uchicago.edu/bakeoff2005/
+
 wget http://sighan.cs.uchicago.edu/bakeoff2005/data/icwb2-data.zip
 
 # 训练预测
@@ -12,6 +13,8 @@ wget http://sighan.cs.uchicago.edu/bakeoff2005/data/icwb2-data.zip
 python train.py 
 
 python predict.py
+
+![image](https://user-images.githubusercontent.com/36963108/170281665-e0358e1d-9e1f-4006-94b1-e1e6e970b2c9.png)
 
 
 # 其他参考
